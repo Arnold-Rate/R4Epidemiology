@@ -1,5 +1,5 @@
 #Missing Data
-#Missing Data is usuklly represented as NA 
+#Missing Data is usually represented as NA 
 # Create the class data frame
 data.frame(
   names   = c("John", "Sally", "Brad", "Anne"),
